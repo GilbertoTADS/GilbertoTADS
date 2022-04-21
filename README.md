@@ -5,8 +5,7 @@
 >“Simplicity is the soul of efficiency.” – Austin Freeman
 
 ### Who I am?
->I'm a excited by tecnology, loveled by programmation since I was 14 years old, with two degress fisrt in Systems Analysis and second in Software Enginnering, currently working at Bradesco Seguros SA like System Analystic. I like game, arts martials and parts. But the better of me you only meet presently.
-
+>I'm a excited by tecnology, loveled by programmation since I was 14 years old, with two degress fisrt in Systems Analysis and second in Software Enginnering, currently working at Bradesco Seguros SA like System Analystic. I like game, arts martials and parts. But the better of me you only meet in person.
 
 
 
