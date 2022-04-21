@@ -1,4 +1,13 @@
-### Hi there 👋
+# **Hi there**, welcome at in my profile! &#128526;	
+
+
+### My prefer phrase is 
+>“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint-Exupery
+
+
+
+
+
 
 <!--
 **GilbertoTADS/GilbertoTADS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
