@@ -1,11 +1,19 @@
 # **Hey**, welcome at in my profile! &#128526;	
 
 
-### My prefer phrase is 🧐
+### _My prefer phrase is_: 🧐
 >“Simplicity is the soul of efficiency.” – Austin Freeman
 
-### Who I am?
->I'm a excited by tecnology, loveled by programmation since I was 14 years old, with two degress fisrt in Systems Analysis and second in Software Enginnering, currently working at Bradesco Seguros SA like System Analystic. I like game, arts martials and parts. But the better of me you only meet in person.
+### _Who I am_ **?**
+>I'm a excited by tecnology, loveled by programmation since I was 14 years old, with two degress fisrt in Systems Analysis and second in Software Enginnering, currently working at Bradesco Seguros SA like System Analystic. I like games, arts martials and parties. But the better of me you only meet in person.
+
+![tech](/favorite_tech.png "my favorites technologies")
+
+### _Do you want contact me_ **?**
+### these are my contacts:
+ - [Linkedln](https://www.linkedin.com/in/gilbertotads)
+ - [Instagram](https://www.instagram.com/assuntosdev)
+ - [Whatsapp](https://wa.me/message/EFLPAWQW7QVKN1)
 
 
 
